@@ -1,0 +1,35 @@
+.welcome{
+    width: 400px;
+    /* border: 1px solid black; */
+    margin: 40px auto;
+    text-align: center;
+}
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid lightgray;
+}
+.button{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.div2{
+    color: lightgray;
+}
+.signup{
+    color: gray;
+}
+.wel-text{
+    font-size: xx-small;
+}
+.div3{
+    color: lightgray;
+    font-weight: 200;
+}

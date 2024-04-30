@@ -1,0 +1,17 @@
+.top{
+  width: 400px;
+  background-color: lightgreen;
+  padding: 80px 40px;
+  font-family: serif;
+  margin: 40px auto;
+}
+.head{
+  font-size: 50px;
+}
+.btn{
+  padding: 10px;
+  width: 50%;
+  border-radius: 60px;
+  border: none;
+  font: bold;
+}
